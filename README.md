@@ -1,12 +1,12 @@
-#📊 HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This Power BI dashboard analyzes employee attrition trends, workforce demographics, salary distribution, job roles, and employee education backgrounds. The dashboard helps identify key factors influencing employee turnover and provides actionable business recommendations to improve employee retention.
 
 ---
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI
 - Microsoft Excel
@@ -15,17 +15,17 @@ This Power BI dashboard analyzes employee attrition trends, workforce demographi
 
 ---
 
-##🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to analyze employee attrition patterns, identify high-risk employee groups, and support HR decision-making through interactive visualizations and business insights.
 
 ---
 
-##📂 Dataset
+## 📂 Dataset
 
 Dataset: HR Analytics Employee Attrition Dataset
 
-###Contains Information About:
+### Contains Information About:
 - Employee Demographics
 - Department & Job Roles
 - Salary Information
@@ -35,7 +35,7 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 ---
 
-##📈 Key Features
+## 📈 Key Features
 
 - Interactive HR Analytics Dashboard
 - Employee Attrition Analysis
@@ -48,7 +48,7 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 ---
 
-##💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
 - Power BI
 - DAX
@@ -61,7 +61,7 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 ---
 
-##📂 Project Files
+## 📂 Project Files
 
 - HR Analytics Dashboard (.pbix)
 - Dashboard Screenshots
@@ -69,21 +69,25 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 ---
 
-##📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 👉 Check the uploaded screenshots in this repository to view the dashboard design, business insights, and recommendations.
 
-Dashboard Page 1
+### Dashboard Page 1
 
 HR Analytics Dashboard
 
-Dashboard Page 2
+### Dashboard Page 2
 
 Insights & Recommendations
 
+### Dashboard Page 3
+
+
+
 ---
 
-##🚀 Key Insights
+## 🚀 Key Insights
 
 - The overall employee attrition rate is 16.1%.
 - Employees aged 26–35 years show the highest attrition.
@@ -94,7 +98,7 @@ Insights & Recommendations
 
 ---
 
-##📌 Business Recommendations
+## 📌 Business Recommendations
 
 - Improve retention strategies for employees aged 26–35 years.
 - Review compensation policies for lower salary bands.
@@ -104,6 +108,6 @@ Insights & Recommendations
 
 ---
 
-##📌 Note
+## 📌 Note
 
 This project is part of my Data Analytics learning journey using Power BI and focuses on transforming HR data into meaningful business insights for better workforce decision-making.
