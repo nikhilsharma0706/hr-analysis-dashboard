@@ -63,7 +63,7 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 ## 📂 Project Files
 
-- HR Analytics Dashboard (.pbix)
+- [HR Analytics Dashboard](HR%20Analysis%20Project%20.pbix)
 - Dashboard Screenshots
 - Insights & Recommendations Page
 
@@ -73,16 +73,17 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 👉 Check the uploaded screenshots in this repository to view the dashboard design, business insights, and recommendations.
 
-### Dashboard Page 1
+### Main Dashboard 
 
-HR Analytics Dashboard
+![HR Analytics Dashboard](HR%20Analysis%20Dashboard%20Project-2%20ss1.png)
 
-### Dashboard Page 2
+### Insights & Recommendation Page 
 
-Insights & Recommendations
+![Insights & Recommendations](HR%20Analysis%20Dashboard%20Project-2%20ss2.png)
 
-### Dashboard Page 3
+### Dashboard with use of slicer
 
+![Dashboard with use of Slicer](HR%20Analysis%20Dashboard%20Project-2%20ss3.png)
 
 
 ---
