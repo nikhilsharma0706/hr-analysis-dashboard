@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard
+# 📊 HR Analysis Dashboard
 
 ## 📌 Project Overview
 
