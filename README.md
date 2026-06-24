@@ -75,15 +75,15 @@ Dataset: HR Analytics Employee Attrition Dataset
 
 ### Main Dashboard 
 
-![HR Analytics Dashboard](HR%20Analysis%20Dashboard%20Project-2%20ss1.png)
+![HR Analytics Dashboard](HR%20Analysis%20Dashboard%20ss1.png)
 
 ### Insights & Recommendation Page 
 
-![Insights & Recommendations](HR%20Analysis%20Dashboard%20Project-2%20ss2.png)
+![Insights & Recommendations](HR%20Analysis%20Dashboard%20ss2.png)
 
 ### Dashboard with use of slicer
 
-![Dashboard with use of Slicer](HR%20Analysis%20Dashboard%20Project-2%20ss3.png)
+![Dashboard with use of Slicer](HR%20Analysis%20Dashboard%20ss3.png)
 
 
 ---
